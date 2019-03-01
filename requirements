@@ -1,0 +1,29 @@
+V1-layout and tasks
+##Initial Setup
+
+Add Landing Page
+Add Destination Page that lists all destinations
+Each Destination has:Name,Image
+
+#Layout and Basic Styling
+Create our header and footer partials
+Add in Bootstrap
+
+#Creating New Destinations
+Setup new destination POST route
+Add in body-parser
+Setup route to show form
+Add basic unstyled form
+
+#Style the destinations page
+Add a better header/title
+Make destinations display in a grid
+
+#Style the Navbar and Form
+Add a navbar to all templates
+Style the new destination form
+
+#Add Mongoose
+Install and configure mongoose
+Setup campground model
+Use campground model inside of our routes!
